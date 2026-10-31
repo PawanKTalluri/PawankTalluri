@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on Software engineer at USAA
+Technical Lead and Application Architect with 20+ years of experience delivering and supporting enterprise software across financial services, tax, insurance, and claims environments. Combines hands-on Java/J2EE engineering with technical leadership in application architecture, service integration, ETL, modernization, release delivery, and production support. Experienced in leading technical analysis, translating business needs into system designs, creating UML and SDLC documentation, coordinating vendors and distributed teams, and resolving complex application and integration issues. Background includes REST/SOAP services, SOA, messaging, CI/CD, automated testing, and container technologies.
 
 
 # 🌐 Socials:
@@ -47,7 +47,7 @@ I design and deliver enterprise applications across **financial services, tax, i
 
 ## 💼 Experience highlights
 
-**Technical Lead, Treasury Application Modernization** — USAA, CFO Enterprise *(2024 – Present)*
+**Software Engineer, Treasury Application Modernization** — USAA, CFO Enterprise *(2024 – Present)*
 Re-architecting treasury payments on SAP with Spring Batch automation.
 
 **Technical Lead / Application Architect, Enterprise Tax Applications** — USAA / HCL America *(2020 – 2024)*
@@ -57,16 +57,16 @@ Re-architecting treasury payments on SAP with Spring Batch automation.
 - Led database migration and redevelopment of federal and state tax-reporting ETL jobs
 - Implemented CI/CD for ETL, .NET, and API-based applications
 
-**Technical Lead / Solution Architect, Strategic Tax Modernization** — USAA / HCL America *(2019 – 2020)*
+**Technical Lead / Application Architect, Strategic Tax Modernization** — USAA / HCL America *(2019 – 2020)*
 Led analysis and roadmaps for automation, self-service, controls, reporting, and data management.
 
 **Senior Java / Full-Stack Engineer, Ecommerce Redesign** — Frost Bank / HCL America *(2018)*
 Built an API framework, REST services, AngularJS UI, and Selenium/TestNG automation with Maven/Jenkins CI/CD.
 
-**Technical Lead, Corporate & Member Tax Solutions** — USAA / HCL America *(2015 – 2018)*
+**Senior Java Developer, Corporate & Member Tax Solutions** — USAA / HCL America *(2015 – 2018)*
 Delivered automated federal reporting, TurboTax integration for electronic return workflows, and tax-information reporting replacement.
 
-**Earlier career** — Application Architect on a life & health claims modernization (SOA, SOAP, MQ, FINEOS integration); Java/J2EE lead and engineer on large-scale claims platforms at USAA (WebSphere migration, EJB, JMS, DB2); payment-card security (PCI, tokenization); ServiceNow test automation; Java developer at TCS.
+**Earlier career** — Java Develoer on a life & health claims modernization (SOA, SOAP, MQ, FINEOS integration); Java/J2EE lead and engineer on large-scale claims platforms at USAA (WebSphere migration, EJB, JMS, DB2); payment-card security (PCI, tokenization); ServiceNow test automation; Java developer at TCS.
 
 ---
 
