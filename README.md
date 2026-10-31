@@ -20,7 +20,6 @@ I design and deliver enterprise applications across **financial services, tax, i
 
 - Modernizing a PeopleSoft-based **Treasury Payments** solution around SAP-backed capabilities using **Spring Batch**
 - Replacing manual, document-driven business workflows with automated batch solutions integrated with SAP Treasury
-- Working toward the **Claude Certified Associate – Foundations** certification
 
 ## 🛠️ Tech stack
 
@@ -85,9 +84,5 @@ Technical direction & mentoring · Architecture and design reviews · Complex pr
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanktalluri@gmail.com)
 
-<!-- Optional: GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
--->
